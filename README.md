@@ -3,7 +3,7 @@
 <!--
 **Kru178/Kru178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Kru178=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kru178)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
