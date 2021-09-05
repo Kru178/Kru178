@@ -7,6 +7,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GetIn
 - 🌱 I’m currently learning Swift
 
